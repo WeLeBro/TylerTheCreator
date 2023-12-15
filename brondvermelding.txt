@@ -11,5 +11,6 @@ PHOTOS
 * Tyler-6: https://assets.vogue.com/photos/5e2e419b2db4f40008f073c5/master/w_1600%2Cc_limit/GettyImages-1202153913.jpg
 * Tyler-7: https://pauseonline.s3.eu-west-2.amazonaws.com/wp-content/uploads/2022/08/298471319_592840988911463_1619295021468842374_n.jpg
 * CMIYGL Tyler 1: https://img.buzzfeed.com/buzzfeed-static/complex/images/pq4ajtofqvm4fr7tvujy/tyler-the-creator-album-impressions.jpg?output-format=jpg&output-quality=auto
+* Le Fleur Store: https://www.golflefleur.com/
 * Tyler Signature: https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tyler%2C_the_Creator%27s_signature.svg/2560px-Tyler%2C_the_Creator%27s_signature.svg.png
 * Favicon: https://cdn.shopify.com/s/files/1/0583/1006/6338/files/favicon.jpg
